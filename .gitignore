@@ -58,3 +58,26 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+*.wav
+*.mp3
+*.mp4
+ConceptIdeasProject/Assets/11_Videos/BokhyllanLoop.mp4.meta
+ConceptIdeasProject/Assets/10_Music/WindStorm.wav.meta
+ConceptIdeasProject/Assets/10_Music/Water Bubbles Surface.wav.meta
+ConceptIdeasProject/Assets/10_Music/Water Ambience.wav.meta
+ConceptIdeasProject/Assets/10_Music/Timer.wav.meta
+ConceptIdeasProject/Assets/10_Music/Target Score.wav.meta
+ConceptIdeasProject/Assets/10_Music/Start Scene.mp3.meta
+ConceptIdeasProject/Assets/10_Music/Shark Attack.wav.meta
+ConceptIdeasProject/Assets/10_Music/Rod Splash.wav.meta
+ConceptIdeasProject/Assets/10_Music/Metal Squeak.wav.meta
+ConceptIdeasProject/Assets/10_Music/KnaggleSound.wav.meta
+ConceptIdeasProject/Assets/10_Music/Game Over.wav.meta
+ConceptIdeasProject/Assets/10_Music/Drop Feedback.wav.meta
+ConceptIdeasProject/Assets/10_Music/Container Plastic.wav.meta
+ConceptIdeasProject/Assets/10_Music/Container Metal.wav.meta
+ConceptIdeasProject/Assets/10_Music/Container Electronic.wav.meta
+ConceptIdeasProject/Assets/10_Music/Construction Site.wav.meta
+ConceptIdeasProject/Assets/10_Music/Button.wav.meta
+ConceptIdeasProject/Assets/11_Videos/CleanWaterLoop.mp4.meta
+*.png

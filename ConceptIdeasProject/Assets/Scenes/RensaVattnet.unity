@@ -2956,7 +2956,7 @@ GameObject:
   - component: {fileID: 516045473}
   - component: {fileID: 516045472}
   m_Layer: 0
-  m_Name: Ambience
+  m_Name: Ambience Audio Source
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5591,8 +5591,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _firstLevelComplete: 1
   _scoreboardText: {fileID: 488457155}
+  _points: 0
   _placeHolder: {fileID: 1759284437}
   waitTime: 10
+  username: 
   _usernameText: {fileID: 1944185778}
 --- !u!114 &950521623
 MonoBehaviour:
